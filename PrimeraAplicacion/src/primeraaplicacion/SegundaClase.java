@@ -9,13 +9,6 @@ package primeraaplicacion;
  *
  * @author DAM216
  */
-public class PrimeraAplicacion {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hola mundo");
-    }
+public class SegundaClase {
     
 }
